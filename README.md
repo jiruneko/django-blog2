@@ -1,1 +1,1 @@
-# django-blog2
+# django_blog(2)
