@@ -1,1 +1,1 @@
-# django_blog(2)
+# django_blog part2
